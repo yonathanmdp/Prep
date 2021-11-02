@@ -1,11 +1,11 @@
-h1{
-    color: red;
+h2 {
+    color: blue;
+    background-color: orange;
 }
 
-.green {
-    color: green;
-}
-
-#orange {
-    color: orange;
+.blue {
+    color: blue;
+ }
+#red {
+    color:red;
 }
