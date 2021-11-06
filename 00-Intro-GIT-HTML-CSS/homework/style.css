@@ -1,0 +1,23 @@
+<title>css</title>
+
+h1 {
+    color: blue;
+ } 
+
+ img {
+     width: 400px;
+    }
+
+    #thirdDiv {
+        height: 600px;
+        width: 500px;
+        background-color:rgb(35, 197, 35);
+        margin: 20px;
+        padding-top: 50px;
+        border: 20px blueviolet;
+         }
+
+     #spanId {
+         font-size: 25px;
+         margin: 50px;
+     }
